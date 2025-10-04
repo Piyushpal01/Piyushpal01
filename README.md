@@ -100,6 +100,7 @@ Welcome to my GitHub! Passionate about building end-to-end web apps with clean c
 
 </div>
 
+[![An image of @piyushpal01's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/piyushpal01)](https://holopin.io/@piyushpal01)
 
 ###
 
