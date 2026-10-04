@@ -102,7 +102,6 @@ Welcome to my GitHub! Passionate about building end-to-end web apps with clean c
 
 [![An image of @piyushpal01's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/piyushpal01)](https://holopin.io/@piyushpal01)
 
-###
 
 <div align="left">
   <a href="#" onclick="return false;">
@@ -116,11 +115,5 @@ Welcome to my GitHub! Passionate about building end-to-end web apps with clean c
   <a href="#" onclick="return false;">
     <img src="https://streak-stats.demolab.com?user=Piyushpal01&locale=en&mode=daily&theme=gotham&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
   </a>
-
-  <a href="#" onclick="return false;">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Piyushpal01&radius=16&theme=gotham&area=true&order=5&custom_title=My%20Contribution%20Graph" height="300" alt="activity-graph graph" />
-  </a>
 </div>
 
-
-###
